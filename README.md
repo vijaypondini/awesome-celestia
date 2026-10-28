@@ -1424,3 +1424,14 @@ These resources document earlier testnets and are not current node installation 
 * [Celestia network scanner](https://cosmowiz.com/network/celestia) — Public endpoint discovery.
 
 ---
+
+### Contributions by [Decentra](https://decentra.cloud/)
+
+#### Tooling
+- [Celestia Validator Profitability Calculator](https://celestia.decentra.cloud) - A calculator tool that lets you simulate your validator profitability based on different facotrs like commission, fees, stake amounts, and more.
+- [Celestia Hardware Compatibility List](https://celestia.decentra.cloud/hcl) - A hardware list that's up to date with the latest mocha, mainnet, and fibre requirements to ensure that you spec out your server to be capable for running a celestia node
+
+#### Infrastructure
+- Continuing to work with the celestia ecosystem to bring forth geographic decentralization to the Celestia validator list
+
+---
